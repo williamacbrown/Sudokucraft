@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "sudokucraft:block/brain" }
+	}
+}

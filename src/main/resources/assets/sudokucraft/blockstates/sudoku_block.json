@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"modelnum=0": { "model": "sudokucraft:block/empty_sudoku" },
+		"modelnum=1": { "model": "sudokucraft:block/one_sudoku" },
+		"modelnum=2": { "model": "sudokucraft:block/two_sudoku" },
+		"modelnum=3": { "model": "sudokucraft:block/three_sudoku" },
+		"modelnum=4": { "model": "sudokucraft:block/four_sudoku" },
+		"modelnum=5": { "model": "sudokucraft:block/five_sudoku" },
+		"modelnum=6": { "model": "sudokucraft:block/six_sudoku" },
+		"modelnum=7": { "model": "sudokucraft:block/seven_sudoku" },
+		"modelnum=8": { "model": "sudokucraft:block/eight_sudoku" },
+		"modelnum=9": { "model": "sudokucraft:block/nine_sudoku" },
+		"modelnum=10": { "model": "sudokucraft:block/empty_locked" },
+		"modelnum=11": { "model": "sudokucraft:block/one_locked" },
+		"modelnum=12": { "model": "sudokucraft:block/two_locked" },
+		"modelnum=13": { "model": "sudokucraft:block/three_locked" },
+		"modelnum=14": { "model": "sudokucraft:block/four_locked" },
+		"modelnum=15": { "model": "sudokucraft:block/five_locked" },
+		"modelnum=16": { "model": "sudokucraft:block/six_locked" },
+		"modelnum=17": { "model": "sudokucraft:block/seven_locked" },
+		"modelnum=18": { "model": "sudokucraft:block/eight_locked" },
+		"modelnum=19": { "model": "sudokucraft:block/nine_locked" }
+	}
+}

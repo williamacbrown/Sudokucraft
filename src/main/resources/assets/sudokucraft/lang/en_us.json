@@ -1,0 +1,15 @@
+{
+	"item.sudokucraft.one_item": "One Marker",
+	"item.sudokucraft.two_item": "Two Marker",
+	"item.sudokucraft.three_item": "Three Marker",
+	"item.sudokucraft.four_item": "Four Marker",
+	"item.sudokucraft.five_item": "Five Marker",
+	"item.sudokucraft.six_item": "Six Marker",
+	"item.sudokucraft.seven_item": "Seven Marker",
+	"item.sudokucraft.eight_item": "Eight Marker",
+	"item.sudokucraft.nine_item": "Nine Marker",
+	"item.sudokucraft.sudoku_bag": "Sudoku Bag",
+	"block.sudokucraft.sudoku_block": "Sudoku Block",
+	"block.sudokucraft.sudoku_brain": "Sudoku Brain",
+	"item.sudokucraft.sudoku_key": "Sudoku Key"
+}
